@@ -1,8 +1,6 @@
 # Calculator App
 Very basic calculator application created by Java **Swing**. 
 
-
-
 ## Thank You!
 Please ⭐️ this repo and share it with others
 
@@ -19,7 +17,7 @@ Sample           |   Colored
 
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-       git clone https://github.com/gopibhaskar/Calculator.git
+       git clone https://github.com/gopibhaskar/project.git
 3. Imported it in Intellij IDEA or any other Java IDE.
 4. Run the application :D
 
